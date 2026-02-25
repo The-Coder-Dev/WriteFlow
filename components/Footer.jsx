@@ -32,7 +32,7 @@ function Footer() {
             </p>
             <div className="flex gap-3">
               <Button asChild className={`bg-lightgreen`}>
-                <Link href="/">Get Started</Link>
+                <Link href="/sign-in">Get Started</Link>
               </Button>
               <Button asChild>
                 <Link href="/">Learn More</Link>
